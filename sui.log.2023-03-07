@@ -1,5 +1,0 @@
-2023-03-07T07:22:35.798968Z  INFO sui::client_commands: 0x3258e64627ac80cdcd0a20be924c3ad4179b7dff
-2023-03-07T07:22:45.207343Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.27.0, server api version : 0.27.1
-2023-03-07T07:22:45.630960Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
-2023-03-07T07:22:45.631022Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-2023-03-07T07:22:45.631029Z  INFO sui::client_commands: Showing 0 results.
